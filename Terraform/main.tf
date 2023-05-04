@@ -145,7 +145,7 @@ resource "azurerm_network_security_group" "nsg-spoke02" {
     source_port_range          = "*"
     destination_port_range     = "80"
     source_address_prefix      = "*"
-    destination_address_prefix = "10.20.1.4, 10.20.2.4"
+    destination_address_prefixes = ["10.20.1.4", "10.20.2.4"]
   }
 }
 
