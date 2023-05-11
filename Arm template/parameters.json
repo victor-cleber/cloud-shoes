@@ -2,10 +2,19 @@
     "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
     "contentVersion": "1.0.0.0",
     "parameters": {
+        "azureFirewalls_fw_hub_name": {
+            "value": null
+        },
+        "routeTables_rt_spoke01_name": {
+            "value": null
+        },
         "virtualNetworks_vnet_hub_name": {
             "value": null
         },
         "virtualMachines_vm_backend_name": {
+            "value": null
+        },
+        "publicIPAddresses_ip_fw_01_name": {
             "value": null
         },
         "virtualMachines_vm_database_name": {
@@ -27,6 +36,9 @@
             "value": null
         },
         "virtualNetworks_vnet_spoke02_name": {
+            "value": null
+        },
+        "firewallPolicies_fw_policy_01_name": {
             "value": null
         },
         "networkSecurityGroups_nsg_hub_name": {
