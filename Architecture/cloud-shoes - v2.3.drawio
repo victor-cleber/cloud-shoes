@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-05-13T19:54:03.083Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="_gSP-XoX15jermz3Eye2" version="21.2.8" type="device">
+<mxfile host="Electron" modified="2023-05-22T23:47:03.248Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="3Gu3Ity1qnkwVgh8AImn" version="21.2.8" type="device">
   <diagram name="Página-1" id="-37fiKzTfTFrvlBXJHoI">
-    <mxGraphModel dx="989" dy="-592" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="-185" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -429,6 +429,15 @@
         </mxCell>
         <mxCell id="u3xtsCmXSuKDjjHytYBa-12" value="sub-integration&lt;br&gt;10.0.1.0/24" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1504.6" y="2143" width="85.4" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="HfVjvq3u5Bbp-fqQVIqM-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="841" y="1827" width="55" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="HfVjvq3u5Bbp-fqQVIqM-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" vertex="1" parent="HfVjvq3u5Bbp-fqQVIqM-1">
+          <mxGeometry x="6.469999999999743" width="42.05" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="HfVjvq3u5Bbp-fqQVIqM-3" value="AD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HfVjvq3u5Bbp-fqQVIqM-1">
+          <mxGeometry y="47" width="55" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
